@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 '''
-Problem 8:
+Problem 7:
 
 Write a recursive program to determine whether a given integer is prime or not.
 
