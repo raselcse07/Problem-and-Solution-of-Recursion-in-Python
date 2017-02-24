@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 '''
-Problem 11:
+Problem 8:
 
 Suppose you are given an array of integers in an arbitrary order. 
 Write a recursive solution to find the maximum element from the array.
