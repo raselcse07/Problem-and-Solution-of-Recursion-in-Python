@@ -190,6 +190,7 @@ a -> b means move the topmost of tower a to tower b.
 Input:
 3
 
+'''
 Output:
 a -> c
 a -> b
@@ -198,3 +199,4 @@ a -> c
 b -> a
 b -> c
 a -> c
+'''
