@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 '''
-Problem-15:
+Problem-14:
 
 All of you have seen the tower of Hanoi. 
 You have 3 pillars 'a', 'b' and 'c', and you need transfer all 
