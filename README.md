@@ -9,6 +9,7 @@ You may like to try out some simple problems to practice recursions. Try to solv
 You will be given an array of integers, write a recursive solution to print it in reverse order.
 
 '''
+    
     Input:
     
     5
@@ -24,6 +25,7 @@ You will be given an array of integers, write a recursive solution to print it i
 
 Write a recursive function to print an array in the following order.
 '''
+
     [0] [n-1]
     [1] [n-2]
     .........
@@ -36,7 +38,7 @@ Write a recursive function to print an array in the following order.
     Output:
     1 9
     5 8
-7 7
+    7 7
 
 '''
 
@@ -45,6 +47,7 @@ Write a recursive function to print an array in the following order.
 Write a recursive program to remove all odd integers from an array. You must not use any extra array or print anything in the function. Just read input, call the recursive function, then print the array in main().
 
 '''
+
     Input:
     6
     1 54 88 6 55 7
@@ -58,6 +61,7 @@ Write a recursive solution to print the polynomial series for any input n:
 1 + x + x2 + ................. + xn-1
 
 '''
+
     Input:
     5
 
@@ -71,6 +75,7 @@ Write a recursive solution to print the polynomial series for any input n:
 Write a recursive program to compute n!
 
 '''
+
     Input:
     5
 
@@ -84,6 +89,7 @@ Write a recursive program to compute n!
 Write a recursive program to compute nth fibonacci number. 1st and 2nd fibonacci numbers are 1, 1.
 
 '''
+
     Input:
     6
 
@@ -97,6 +103,7 @@ Write a recursive program to compute nth fibonacci number. 1st and 2nd fibonacci
 Write a recursive program to determine whether a given integer is prime or not.
 
 '''
+
     Input:
     49
     999983
@@ -114,6 +121,7 @@ Write a recursive program to determine whether a given integer is prime or not.
 Suppose you are given an array of integers in an arbitrary order. Write a recursive solution to find the maximum element from the array.
 
 '''
+
     Input:
     5
     7 4 9 6 2
@@ -128,6 +136,7 @@ Suppose you are given an array of integers in an arbitrary order. Write a recurs
 Write a recursive solution to find the second maximum number from a given set of integers.
 
 '''
+
     Input:
     5
     5 8 7 9 3
@@ -143,6 +152,7 @@ Implement linear search recursively, i.e. given an array of integers, find a spe
 Then n integers. Then, q, number of query, then q integers. Output format: for each of the q integers, print its index (within 0 to n-1) in the array or print 'not found', whichever is appropriate.
 
 '''
+
     Input:
     5
     2 9 4 7 6
@@ -160,6 +170,7 @@ Implement binary search recursively, i.e. given an array of sorted integers, fin
 in the array or print 'not found', whichever is appropriate.
 
 '''
+
     Input:
     5
     1 2 3 4 5
@@ -176,6 +187,7 @@ in the array or print 'not found', whichever is appropriate.
 Write a recursive solution to get the reverse of a given integer. Function must return an int
 
 '''
+
     Input:
     123405
 
@@ -188,6 +200,7 @@ Write a recursive solution to get the reverse of a given integer. Function must 
 Read a string from keyboard and print it in reversed order. You must not use any array to store the characters. Write a recursive solutions to solve this problem.
 
 '''
+
     Input:
     helloo
 
@@ -209,6 +222,7 @@ Write a recursive solution to print the moves that simulates the task,
 a -> b means move the topmost of tower a to tower b.
 
 '''
+
     Input:
     3
     Output:
