@@ -186,7 +186,7 @@ larger disk over a smaller one.
 Write a recursive solution to print the moves that simulates the task,
 
 a -> b means move the topmost of tower a to tower b.
-<code>
+<td>
 Input:
 3
 
@@ -198,5 +198,5 @@ a -> c
 b -> a
 b -> c
 a -> c
-</code>
+</td>
 
