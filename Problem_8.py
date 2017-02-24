@@ -31,6 +31,6 @@ value=[int(x) for x in input().split()]
 if n == len(value):
 	print(maximum_Value(value))
 else:
-	print("Out of Range !!!")
+	print("Out of Range !!")
 
 
