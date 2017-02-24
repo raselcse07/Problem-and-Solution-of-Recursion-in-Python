@@ -8,8 +8,7 @@ You may like to try out some simple problems to practice recursions. Try to solv
 
 You will be given an array of integers, write a recursive solution to print it in reverse order.
 
-'''
-    Input:
+'''Input:
     5
     69 87 45 21 47
     Output:
